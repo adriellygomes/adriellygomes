@@ -1,16 +1,24 @@
-### Hi there 👋
+### ⚡️ Fala galera,
+eu sou a Adrielly Gomes.  
+
+<div classname="octocat">
+ <img align="left" alt="Devto" width="400px" src="https://i.ibb.co/zZYksgf/octocat.png" />
+ </div> 
+
+<div>
+ <p> 📚 - Estudante de Análise e Desenvolvimento de Sistemas pela universidade Anhembi Morumbi, São Paulo - SP. </p>
+<p>💡 - Orgulhosamente ex aluna em Front-End e espodaricamente voluntária da {Reprograma}. </p>
+<p> 💻 - Engenheira de Software no Itau Unibanco com foco em Back-End. (:  </p>
+<p> 😺 - Minhas habilidades incluem: Lógica de programação, HTML5 & CSS3, Jquery, Javascript, ReactJS, Git, Github, bibliotecas, SASS, frameworks, Java, NodeJs, Mainframe, Cobol, C#. </p>
+<p>🕹️ - Nas horas vagas: Quero me tornar especialista em desenvolvimento de jogos usando Back-End. </p>
+</div> 
+
+
 
 <!--
 **adriellygomes/adriellygomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
