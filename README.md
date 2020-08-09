@@ -2,7 +2,7 @@
 eu sou a Adrielly Gomes.  
 
 <div classname="octocat">
- <img align="left" alt="Devto" width="400px" src="https://i.ibb.co/zZYksgf/octocat.png" />
+ <img align="left" alt="Devto" width="300px" src="https://i.ibb.co/zZYksgf/octocat.png" />
  </div> 
 
 <div>
