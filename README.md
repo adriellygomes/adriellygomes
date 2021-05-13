@@ -1,9 +1,3 @@
-### ⚡️ Fala galera,
-eu sou a Adrielly Gomes.  
-
-<div classname="octocat">
- <img align="left" alt="Devto" width="300px" src="https://i.ibb.co/zZYksgf/octocat.png" />
- </div> 
 
 <div>
  <p> 📚 Estudante de Análise e Desenvolvimento de Sistemas pela universidade Anhembi Morumbi, São Paulo - SP. </p>
